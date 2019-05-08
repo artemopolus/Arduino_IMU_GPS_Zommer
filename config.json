@@ -1,0 +1,21 @@
+{
+	"serverParams":
+	{
+		"ip": "192.168.0.1",
+		"port": "1729"
+	},
+	"WiFiAPList":
+	{
+		"WLAN_bestWF":"selenga1729",
+		"Xiaomi_7046":"enterenter",
+		"karich":"selenga1729",
+		"Redmi":"selenga1729",
+		"lzlsapm":"cdd045b12"
+	},
+	"LastSetting":
+	{
+		"Ap":"WLAN_bestWF",
+		"ServerIP":"192.168.43.37",
+		"ServerPort":"3110"
+	}
+}
